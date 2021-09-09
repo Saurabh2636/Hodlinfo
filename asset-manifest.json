@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hodlinfo/static/css/main.7735a385.chunk.css",
+    "main.js": "/Hodlinfo/static/js/main.099cd1ca.chunk.js",
+    "main.js.map": "/Hodlinfo/static/js/main.099cd1ca.chunk.js.map",
+    "runtime-main.js": "/Hodlinfo/static/js/runtime-main.d3e6e09f.js",
+    "runtime-main.js.map": "/Hodlinfo/static/js/runtime-main.d3e6e09f.js.map",
+    "static/js/2.1410ffc5.chunk.js": "/Hodlinfo/static/js/2.1410ffc5.chunk.js",
+    "static/js/2.1410ffc5.chunk.js.map": "/Hodlinfo/static/js/2.1410ffc5.chunk.js.map",
+    "index.html": "/Hodlinfo/index.html",
+    "static/css/main.7735a385.chunk.css.map": "/Hodlinfo/static/css/main.7735a385.chunk.css.map",
+    "static/js/2.1410ffc5.chunk.js.LICENSE.txt": "/Hodlinfo/static/js/2.1410ffc5.chunk.js.LICENSE.txt",
+    "static/media/intern.ef55b4f9.png": "/Hodlinfo/static/media/intern.ef55b4f9.png",
+    "static/media/intern2.0bcbab6a.png": "/Hodlinfo/static/media/intern2.0bcbab6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3e6e09f.js",
+    "static/js/2.1410ffc5.chunk.js",
+    "static/css/main.7735a385.chunk.css",
+    "static/js/main.099cd1ca.chunk.js"
+  ]
+}
