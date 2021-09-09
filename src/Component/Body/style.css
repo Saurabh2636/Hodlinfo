@@ -1,0 +1,15 @@
+.body{
+    display:flex;
+    
+}
+.subtitle{
+    margin: auto;
+  
+}
+h1{
+    color: rgb(125, 214, 214);
+}
+
+.inr{
+    font-size:8vh;
+}

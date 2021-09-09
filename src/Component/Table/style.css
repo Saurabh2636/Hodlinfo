@@ -1,0 +1,19 @@
+th{
+    font-size:40px;
+    color:rgb(231, 171, 171);
+    padding: 55px;
+}
+
+td{
+    color:white;
+    font-size:20px;
+}
+.row{
+    height:60px;
+    background-color: rgb(39, 38, 53);
+    margin-bottom: 20px;
+    row-gap: 20px;
+}
+.table{
+    margin: auto;
+}

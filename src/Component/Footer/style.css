@@ -1,0 +1,19 @@
+.img{
+    margin-top: 4vh;
+    
+    border-radius: 25px 25px;
+    overflow: hidden;
+}
+p{
+    color:white;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#191d28;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+ }
